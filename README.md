@@ -150,6 +150,35 @@ const arda = {
 
 </div>
 
+### ⬡ Python Libraries
+
+<div align="center">
+
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-%230097A7.svg?style=for-the-badge&logo=google&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![faster-whisper](https://img.shields.io/badge/Faster--Whisper-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Vosk](https://img.shields.io/badge/Vosk-%232C3E50.svg?style=for-the-badge&logo=python&logoColor=white)
+![llama-cpp](https://img.shields.io/badge/llama--cpp--python-%23F5A623.svg?style=for-the-badge&logo=meta&logoColor=white)
+![piper-tts](https://img.shields.io/badge/Piper%20TTS-%238E44AD.svg?style=for-the-badge&logo=python&logoColor=white)
+![pytesseract](https://img.shields.io/badge/pytesseract-%2300897B.svg?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-%23276DC3.svg?style=for-the-badge&logo=python&logoColor=white)
+![pynput](https://img.shields.io/badge/pynput-%23FFD43B.svg?style=for-the-badge&logo=python&logoColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-%23306998.svg?style=for-the-badge&logo=python&logoColor=white)
+![sounddevice](https://img.shields.io/badge/sounddevice-%23FF6B35.svg?style=for-the-badge&logo=python&logoColor=white)
+![aiohttp](https://img.shields.io/badge/aiohttp-%232C5BB4.svg?style=for-the-badge&logo=python&logoColor=white)
+![httpx](https://img.shields.io/badge/httpx-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI SDK](https://img.shields.io/badge/OpenAI%20SDK-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![cloudscraper](https://img.shields.io/badge/cloudscraper-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+</div>
+
 ### ⬡ Cyber Security
 
 <div align="center">
