@@ -50,6 +50,7 @@ const arda = {
     security  : ["XSS", "SQLi", "DDoS", "Web Protection"],
     creative  : ["3D Modeling", "Digital Art", "Hand Drawing"],
     ai        : ["Prompt Engineering", "Generative AI", "AI Engineering"],
+    seo       : ["Google", "Yandex", "Bing", "Technical SEO"],
   },
 
   tools       : {
@@ -88,6 +89,7 @@ const arda = {
 
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Google Auth](https://img.shields.io/badge/Google%20Auth-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -162,6 +164,21 @@ const arda = {
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-%23C0392B.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Security Headers](https://img.shields.io/badge/Security%20Headers-%232980B9.svg?style=for-the-badge&logo=helmet&logoColor=white)
 ![Input Validation](https://img.shields.io/badge/Input%20Validation-%231ABC9C.svg?style=for-the-badge&logo=checkmarx&logoColor=white)
+
+</div>
+
+### ⬡ SEO & Search Engines
+
+<div align="center">
+
+![Google SEO](https://img.shields.io/badge/Google%20SEO-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search%20Console-%234285F4.svg?style=for-the-badge&logo=google-search-console&logoColor=white)
+![Yandex SEO](https://img.shields.io/badge/Yandex%20SEO-%23FF0000.svg?style=for-the-badge&logo=yandex&logoColor=white)
+![Bing SEO](https://img.shields.io/badge/Bing%20SEO-%23008373.svg?style=for-the-badge&logo=microsoft-bing&logoColor=white)
+![Technical SEO](https://img.shields.io/badge/Technical%20SEO-%23F4B400.svg?style=for-the-badge&logo=google&logoColor=white)
+![Schema Markup](https://img.shields.io/badge/Schema%20Markup-%230F9D58.svg?style=for-the-badge&logo=schema.org&logoColor=white)
+![Sitemap](https://img.shields.io/badge/Sitemap%20%26%20Robots.txt-%23DB4437.svg?style=for-the-badge&logo=google&logoColor=white)
+![Core Web Vitals](https://img.shields.io/badge/Core%20Web%20Vitals-%234285F4.svg?style=for-the-badge&logo=pagespeed-insights&logoColor=white)
 
 </div>
 
