@@ -46,7 +46,7 @@ const arda = {
   education   : "High School — Information Technologies",
 
   expertise   : {
-    software  : ["Web Dev", "Backend", "API Design"],
+    software  : ["Web Dev", "Backend", "API Design", "Discord Bots"],
     security  : ["XSS", "SQLi", "DDoS", "Web Protection"],
     creative  : ["3D Modeling", "Digital Art", "Hand Drawing"],
     ai        : ["Prompt Engineering", "Generative AI", "AI Engineering"],
@@ -90,6 +90,8 @@ const arda = {
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Google Auth](https://img.shields.io/badge/Google%20Auth-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Discord.py](https://img.shields.io/badge/Discord.py-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
 
