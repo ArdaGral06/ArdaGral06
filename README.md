@@ -175,7 +175,6 @@ const arda = {
 ![aiohttp](https://img.shields.io/badge/aiohttp-%232C5BB4.svg?style=for-the-badge&logo=python&logoColor=white)
 ![httpx](https://img.shields.io/badge/httpx-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI SDK](https://img.shields.io/badge/OpenAI%20SDK-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![cloudscraper](https://img.shields.io/badge/cloudscraper-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
 
