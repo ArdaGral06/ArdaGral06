@@ -20,6 +20,9 @@
   <a href="https://guns.lol/ardagral066">
     <img src="https://img.shields.io/badge/guns.lol-%23000000.svg?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
+  <a href="https://nightwolves.vercel.app/">
+    <img src="https://img.shields.io/badge/nightwolves.vercel.app-%236E56CF.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=ArdaGral06&color=6E56CF&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
@@ -33,16 +36,24 @@
 
 ```typescript
 const arda = {
-  age        : 17,
-  education  : "High School — Information Technologies",
-  expertise  : ["Software Development", "3D Modeling"],
-  tools      : ["Blender", "VS Code", "Adobe Suite"],
-  interests  : [
-    "Software", "3D Modeling",
-    "Digital Art", "Hand Drawing", "AI"
-  ],
-  currentFocus : "Building cool things with AI & web tech",
-  motto        : "Build things that matter."
+  age         : 17,
+  location    : "Turkey 🇹🇷",
+  education   : "High School — Information Technologies",
+
+  expertise   : {
+    primary   : ["Software Development", "3D Modeling"],
+    creative  : ["Digital Art", "Hand Drawing"],
+    ai        : ["Prompt Engineering", "Generative AI", "AI Engineering"],
+  },
+
+  tools       : {
+    dev       : ["VS Code", "Git", "Node.js", "Next.js"],
+    design    : ["Blender", "Adobe Suite", "Krita"],
+  },
+
+  currentFocus  : "Building production-grade AI & web applications",
+  openToWork    : true,
+  motto         : "Build things that matter.",
 };
 ```
 
@@ -111,6 +122,8 @@ const arda = {
 ![Adobe Lightroom](https://img.shields.io/badge/Lightroom-%2331A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/InDesign-%23FF3366.svg?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
 ![Adobe Acrobat Pro](https://img.shields.io/badge/Acrobat%20Pro-%23EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-%230F3088.svg?style=for-the-badge&logo=krita&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![FL Studio](https://img.shields.io/badge/FL%20Studio-%23FF6C00.svg?style=for-the-badge&logo=image-line&logoColor=white)
 
