@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6E56CF&center=true&vCenter=true&width=640&lines=Software+Developer+%F0%9F%92%BB;3D+Artist+%26+Digital+Creator+%F0%9F%8E%A8;AI+Engineer+%26+Prompt+Specialist+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6E56CF&center=true&vCenter=true&width=640&lines=Software+Developer+%F0%9F%92%BB;3D+Artist+%26+Digital+Creator+%F0%9F%8E%A8;AI+Engineer+%26+Prompt+Specialist+%F0%9F%A4%96;Cyber+Security+Enthusiast+%F0%9F%94%90;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,6 +34,11 @@
 
 <img align="right" width="360" src="https://github-readme-activity-graph.vercel.app/graph?username=ArdaGral06&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6E56CF&line=6E56CF&point=ffffff" />
 
+Hey! I'm **Arda**, 17 years old from Turkey 🇹🇷
+I study Information Technologies in high school and spend most of my time building things on the internet.
+
+I'm mainly into **software development** and **3D modeling** — I use Blender for all my 3D work. On the side I also do **digital art**, **hand drawing**, and dig into **cyber security** topics like web vulnerabilities and protection. I like understanding how things break so I can build them better.
+
 ```typescript
 const arda = {
   age         : 17,
@@ -41,8 +46,9 @@ const arda = {
   education   : "High School — Information Technologies",
 
   expertise   : {
-    primary   : ["Software Development", "3D Modeling"],
-    creative  : ["Digital Art", "Hand Drawing"],
+    software  : ["Web Dev", "Backend", "API Design"],
+    security  : ["XSS", "SQLi", "DDoS", "Web Protection"],
+    creative  : ["3D Modeling", "Digital Art", "Hand Drawing"],
     ai        : ["Prompt Engineering", "Generative AI", "AI Engineering"],
   },
 
@@ -137,6 +143,25 @@ const arda = {
 ![AI Specialist](https://img.shields.io/badge/AI%20Specialist-%23412991.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-%23FF4B4B.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![AI Engineer](https://img.shields.io/badge/AI%20Engineer-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+### ⬡ Cyber Security
+
+<div align="center">
+
+![XSS](https://img.shields.io/badge/XSS-%23FF4B4B.svg?style=for-the-badge&logo=bugcrowd&logoColor=white)
+![SQL Injection](https://img.shields.io/badge/SQL%20Injection-%23CC2927.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Cross-Site Scripting](https://img.shields.io/badge/Cross--Site%20Scripting-%23FF6B35.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![DDoS Protection](https://img.shields.io/badge/DDoS%20Protection-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![CSRF](https://img.shields.io/badge/CSRF-%23E74C3C.svg?style=for-the-badge&logo=security&logoColor=white)
+![IDOR](https://img.shields.io/badge/IDOR-%238E44AD.svg?style=for-the-badge&logo=hackerone&logoColor=white)
+![Web Application Firewall](https://img.shields.io/badge/WAF-%232C3E50.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-%2327AE60.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-%23C0392B.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Security Headers](https://img.shields.io/badge/Security%20Headers-%232980B9.svg?style=for-the-badge&logo=helmet&logoColor=white)
+![Input Validation](https://img.shields.io/badge/Input%20Validation-%231ABC9C.svg?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
 
