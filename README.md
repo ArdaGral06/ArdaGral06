@@ -89,9 +89,15 @@ const arda = {
 
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Google Auth](https://img.shields.io/badge/Google%20Auth-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Discord.py-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Groq SDK](https://img.shields.io/badge/Groq%20SDK-%23F55036.svg?style=for-the-badge&logo=groq&logoColor=white)
 
 </div>
 
